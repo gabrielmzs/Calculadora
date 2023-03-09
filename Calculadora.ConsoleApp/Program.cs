@@ -5,7 +5,7 @@
             Console.WriteLine("Calculadora Top 2023\n");
             //Console.Write("Digite o número desejados de operações: ");
             //int numeroOperacoes = int.Parse(Console.ReadLine());
-            //int contador = 0;
+            //int contador = 
             //bool continua = true;
 
             do {
